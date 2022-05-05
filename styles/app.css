@@ -1,8 +1,12 @@
 body {
   background-color: #f7e8a6;
 }
-h1 {
+h1,
+p {
   text-align: center;
+}
+p {
+  margin: 0 30px 50px 30px;
 }
 .navigation-links {
   display: block;
